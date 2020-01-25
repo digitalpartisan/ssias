@@ -1,0 +1,3 @@
+This is a joke mod that causes the player to drop and loot their own synth component upon dying.  As this is a joke, it is not intended to support or disagree with any fan theory.  If this sounds fun for any reason whatsoever, have at it.
+
+This plugin is an ESL file to avoid taking up a precious plugin slot in your load order.
